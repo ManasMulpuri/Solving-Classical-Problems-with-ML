@@ -18,3 +18,9 @@ Files for Secretary Problem Codes :
 QLearning.ipynb
 DQN.ipynb
 ```
+
+## Contributors
+
+[Manas Mulpuri](https://github.com/ManasMulpuri)\
+[G. Manoj Taraka Ramarao](https://github.com/ManojTarakaRamaraoGunuru)\
+[Krishna Mohan P](https://github.com/Krishna-3718)
